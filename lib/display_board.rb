@@ -3,3 +3,5 @@
   def display_board
     toast
   end
+
+  display_board
